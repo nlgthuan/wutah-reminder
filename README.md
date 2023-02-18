@@ -26,7 +26,7 @@
   30 * * * * <PATH-TO-THE-REPO>/wutah-reminder.sh
   ```
 
-- Example for the cronjob to run every 30 minutes
+- Example for the cronjob to run at every 30th minute
 
   ```
   */30 * * * * <PATH-TO-THE-REPO>/wutah-reminder.sh

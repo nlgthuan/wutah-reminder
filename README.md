@@ -8,7 +8,7 @@
 
 1. Clone the repo
 
-1. Install [terminal-notifier](https://github.com/julienXX/terminal-notifier) via homebrew:
+1. Install [terminal-notifier](https://github.com/julienXX/terminal-notifier) via homebrew
 
    ```bash
    brew install terminal-notifier
@@ -20,7 +20,7 @@
    editor=vim crontab -e
    ```
 
-- Setup the cronjob to run at the interval you like:
+- Setup the cronjob to run at the interval you like
 
   ```
   30 * * * * <PATH-TO-THE-REPO>/wutah-reminder.sh
